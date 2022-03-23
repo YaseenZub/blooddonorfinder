@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/blooddonorfinder/static/css/main.793aebfc.css",
-    "main.js": "/blooddonorfinder/static/js/main.3d600aed.js",
-    "static/js/787.e75e7cad.chunk.js": "/blooddonorfinder/static/js/787.e75e7cad.chunk.js",
-    "static/media/image.jpeg": "/blooddonorfinder/static/media/image.a1c099e3fbde8d4fdb5e.jpeg",
-    "static/media/animate.mp4": "/blooddonorfinder/static/media/animate.69714a503008476fd92f.mp4",
-    "index.html": "/blooddonorfinder/index.html",
-    "main.793aebfc.css.map": "/blooddonorfinder/static/css/main.793aebfc.css.map",
-    "main.3d600aed.js.map": "/blooddonorfinder/static/js/main.3d600aed.js.map",
-    "787.e75e7cad.chunk.js.map": "/blooddonorfinder/static/js/787.e75e7cad.chunk.js.map"
+    "main.css": "/static/css/main.793aebfc.css",
+    "main.js": "/static/js/main.cf7b6629.js",
+    "static/js/787.e75e7cad.chunk.js": "/static/js/787.e75e7cad.chunk.js",
+    "static/media/image.jpeg": "/static/media/image.a1c099e3fbde8d4fdb5e.jpeg",
+    "static/media/animate.mp4": "/static/media/animate.69714a503008476fd92f.mp4",
+    "index.html": "/index.html",
+    "main.793aebfc.css.map": "/static/css/main.793aebfc.css.map",
+    "main.cf7b6629.js.map": "/static/js/main.cf7b6629.js.map",
+    "787.e75e7cad.chunk.js.map": "/static/js/787.e75e7cad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.793aebfc.css",
-    "static/js/main.3d600aed.js"
+    "static/js/main.cf7b6629.js"
   ]
 }
